@@ -29,4 +29,5 @@ Markdown · GitHub · DITA · Figma · Python · JavaScript · SQL · VS Code ·
 
 ---
 
-📍 Based in Atlanta · ✍🏽 Also write about music, media, and the art of attention at [bhaswatic.com](https://bhaswatic.com)
+📍 Based in Atlanta, Georgia · ✍🏽 Also write about music, media, and the art of attention at [bhaswatic.com](https://bhaswatic.com)
+Previously at SAP SuccessFactors (Washington, DC-metro) and GE Digital (Boston, Massachusetts)
